@@ -7,6 +7,12 @@
       Marcin Retek   </p>
 <hr>
   <h1 align="center"> :computer: Technologies  </h1>
+  Java(SpringBoot)
+  Hibernate
+  SQL
+  osv
+  osv
+  osv
 <hr><hr>
 
 Concept/Introduction
