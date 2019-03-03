@@ -1,7 +1,7 @@
 <h1 align="center"> GymBuddy </h1>
 <h5 align="center">A peer-to-peer application in purpose to facilitate personal trainers to clients</h5>
 <hr>
-  <h1 align="center"> Developers :star2: </h1>
+  <h1 align="center"> :star2: Developers  </h1>
   <p align="center">
       Arasto Sahbaei      <br />
       Marcin Retek   </p>
