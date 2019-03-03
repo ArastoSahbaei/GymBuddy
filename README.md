@@ -1,6 +1,12 @@
 <h1 align="center"> GymBuddy </h1>
 <h5 align="center">A peer-to-peer application in purpose to facilitate personal trainers to clients</h5>
-<hr><hr><hr><hr>
+<hr>
+  <h1 align="center"> Developers :star2: </h1>
+  <p align="center">
+      Arasto Sahbaei      <br />
+      Marcin Retek   </p>
+<br />
+<hr><hr><hr>
 
 Concept/Introduction
 NAME is a peer-to-peer application in purpose to facilitate personal trainers to clients
