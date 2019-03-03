@@ -5,7 +5,6 @@
   <p align="center">
       Arasto Sahbaei      <br />
       Marcin Retek   </p>
-<br />
 <hr><hr><hr>
 
 Concept/Introduction
