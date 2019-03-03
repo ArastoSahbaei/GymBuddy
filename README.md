@@ -5,7 +5,9 @@
   <p align="center">
       Arasto Sahbaei      <br />
       Marcin Retek   </p>
-<hr><hr><hr>
+<hr>
+  <h1 align="center"> :star2: Technologies  </h1>
+<hr><hr>
 
 Concept/Introduction
 NAME is a peer-to-peer application in purpose to facilitate personal trainers to clients
