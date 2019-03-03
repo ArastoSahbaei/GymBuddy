@@ -6,7 +6,7 @@
       Arasto Sahbaei      <br />
       Marcin Retek   </p>
 <hr>
-  <h1 align="center"> :star2: Technologies  </h1>
+  <h1 align="center"> :computer: Technologies  </h1>
 <hr><hr>
 
 Concept/Introduction
