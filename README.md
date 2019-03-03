@@ -10,3 +10,5 @@ Incresed availability of personal trainers to a reduced cost
 A greater diversity
 cost for gyms
 dual rating to increse quality for both clients & trainers
+
+TBA TBA TBA TBA TBA
