@@ -17,7 +17,9 @@
   <h1 align="center"> :love_letter: Contact  </h1>
   
 <hr>
-  <h1 align="center"> :question: F.A.Q  </h1>
+  <h1 align="center"> :heartpulse: How can you contribute?  </h1>
   
 <hr>
-  <h1 align="center"> :heartpulse: How can you contribute?  </h1>
+  <h1 align="center"> :question: F.A.Q  </h1>
+  
+
