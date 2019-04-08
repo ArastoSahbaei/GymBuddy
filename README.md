@@ -1,4 +1,4 @@
-<h1 align="center"> GymBuddy, for a healthier earth. </h1>
+<h1 align="center"> GymBuddy, for a healthier lifestyle. </h1>
 <h3 align="center">A peer-to-peer application in purpose to facilitate personal trainers to clients</h3>
 <h5 align="center">	• Offers a high flexability & availability for clients to find the right trainers</h5>
 <h5 align="center">	• Lower costs for clients to hire personal trainers</h5>
