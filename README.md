@@ -9,12 +9,12 @@
   <p align="center">
       Arasto Sahbaei, co-founder & developer      <br />
       Marcin Retek, co-founder & developer   </p>
-      
-      <hr>
+
+<hr>
   <h1 align="center"> :star2: Contact  </h1>
   
-  <hr>
+<hr>
   <h1 align="center"> :star2: F.A.Q  </h1>
   
-  <hr>
+<hr>
   <h1 align="center"> :star2: How can you contribute?  </h1>
