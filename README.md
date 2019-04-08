@@ -14,10 +14,10 @@
       Marcin Retek, co-founder & developer   </p>
 
 <hr>
-  <h1 align="center"> :star2: Contact  </h1>
+  <h1 align="center"> :love_letter: Contact  </h1>
   
 <hr>
-  <h1 align="center"> :star2: F.A.Q  </h1>
+  <h1 align="center"> :question: F.A.Q  </h1>
   
 <hr>
   <h1 align="center"> :heartpulse: How can you contribute?  </h1>
