@@ -5,10 +5,10 @@
 <h5 align="center"></h5>
 
 <hr>
-  <h1 align="center"> :star2: Developers  </h1>
+  <h1 align="center"> :star2: Team  </h1>
   <p align="center">
-      Arasto Sahbaei      <br />
-      Marcin Retek   </p>
+      Arasto Sahbaei, co-founder & developer      <br />
+      Marcin Retek, co-founder & developer   </p>
 <hr>
   <h1 align="center"> :computer: Technologies  </h1>
   Java(SpringBoot)
