@@ -17,4 +17,4 @@
   <h1 align="center"> :star2: F.A.Q  </h1>
   
 <hr>
-  <h1 align="center"> :star2: How can you contribute?  </h1>
+  <h1 align="center"> :+1: How can you contribute?  </h1>
