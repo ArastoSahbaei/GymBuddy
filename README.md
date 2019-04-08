@@ -5,6 +5,9 @@
 <h5 align="center"> • Customised schedule in your phone</h5>
 
 <hr>
+  <h1 align="center"> :mag_right: Table of Content  </h1>
+
+<hr>
   <h1 align="center"> :star2: Team  </h1>
   <p align="center">
       Arasto Sahbaei, co-founder & developer      <br />
@@ -17,4 +20,4 @@
   <h1 align="center"> :star2: F.A.Q  </h1>
   
 <hr>
-  <h1 align="center"> :+1: How can you contribute?  </h1>
+  <h1 align="center"> :heartpulse: How can you contribute?  </h1>
